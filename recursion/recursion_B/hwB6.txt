@@ -1,0 +1,2 @@
+1. The function is to reverse the number.
+2. It will print the same number after swapping.
